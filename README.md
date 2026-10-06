@@ -217,11 +217,11 @@ Power BI file:
 
 ### Sales & Products
 
-![Sales & Products](images/dashboard_sales.png)
+![Sales & Products](images/dashboard_Sales.png)
 
 ### Customers & Delivery
 
-![Customers & Delivery](images/dashboard_customers.png)
+![Customers & Delivery](images/dashboard_Customers.png)
 
 ---
 
