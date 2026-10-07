@@ -6,7 +6,7 @@ This report summarizes the major business findings identified through Python EDA
 
 ## Sales Performance
 
-- Total orders: 99k
+- Total orders:R$ 99k
 - Total revenue: R$ 13.6M
 - Average Order Value: R$ 136.6
 - Highest revenue month: 2017-11
@@ -15,7 +15,7 @@ This report summarizes the major business findings identified through Python EDA
 
 - Top category by revenue: Health_Beauty
 - Top category by order volume: Health_Beauty
-- Top-performing product: Health_Beauty
+- Top-performing product: beleza_saude
 
 ## Customer Geography
 

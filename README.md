@@ -231,29 +231,29 @@ Power BI file:
 
 ### Sales
 
-- Total orders: **[actual value]**
-- Total revenue: **R$ [actual value]**
-- Average Order Value: **R$ [actual value]**
-- Highest-performing period: **[actual value]**
+- Total orders: **R$ 99K**
+- Total revenue: **R$ 13.6M**
+- Average Order Value: **R$ 136.6**
+- Highest-performing period: **2017-11**
 
 ### Products
 
-- Top category: **[actual category]**
-- Top-performing product: **[actual product]**
+- Top category: **Health_Beauty**
+- Top-performing product: **beleza_saude**
 
 ### Customers
 
-- Highest-order state: **[actual state]**
-- Highest-revenue state: **[actual state]**
+- Highest-order state: **SP**
+- Highest-revenue state: **SP**
 
 ### Delivery
 
-- Average delivery time: **[actual value] days**
-- Late delivery rate: **[actual value]%**
+- Average delivery time: **12.5 days**
+- Late delivery rate: **8.1%**
 
 ### Customer Satisfaction
 
-- Average review score: **[actual value] / 5**
+- Average review score: **4.09 / 5**
 
 ---
 
